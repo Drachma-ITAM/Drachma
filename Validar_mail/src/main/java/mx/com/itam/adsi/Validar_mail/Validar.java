@@ -16,7 +16,7 @@ public class Validar
 	 * Método booleano para verificar si un mail es valido o no, utiliza un patrón y
 	 * un matcher para validarlo.
 	 * @param email - recibe el email a validar como un string
-	 * @return true si es valido, false si no es valido 
+	 * @return res - true si es valido, false si no es valido 
 	 */
 	public static boolean validar(String email){
 	    boolean res;

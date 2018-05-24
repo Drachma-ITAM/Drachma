@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 
 public class AlertaTest {
     private final static Logger LOG = Logger.getLogger(AlertaTest.class);
-    private final Alerta al = new Alerta("BTCUSDT");
+    private final Alerta al = new Alerta();
     
     @BeforeClass
     public static void beforeClass() {
@@ -137,57 +137,42 @@ public class AlertaTest {
         mensaje += "\nCambio: " + cambio.toString();
         LOG.info(mensaje);
         assertTrue(al.calculaAccion(apertura, promedio, actual, cambio).equals("Comprar"));
+        
+        apertura = 0.0;
+        promedio = -5.0;
+        actual = -8.0;
+        cambio = 0.001;
+        mensaje = "Probando con los siguientes datos: \nApertura: " + apertura.toString();
+        mensaje += "\nPromedio: " + promedio.toString();
+        mensaje += "\nActual: " + actual.toString();
+        mensaje += "\nCambio: " + cambio.toString();
+        LOG.info(mensaje);
+        assertTrue(al.calculaAccion(apertura, promedio, actual, cambio).equals("Esperar"));
+        
+        apertura = 10.0;
+        promedio = 5.0;
+        actual = -8.0;
+        cambio = 0.001;
+        mensaje = "Probando con los siguientes datos: \nApertura: " + apertura.toString();
+        mensaje += "\nPromedio: " + promedio.toString();
+        mensaje += "\nActual: " + actual.toString();
+        mensaje += "\nCambio: " + cambio.toString();
+        LOG.info(mensaje);
+        assertTrue(al.calculaAccion(apertura, promedio, actual, cambio).equals("Esperar"));
+        
+        apertura = 0.0;
+        promedio = 5.0;
+        actual = 8.0;
+        cambio = 0.001;
+        mensaje = "Probando con los siguientes datos: \nApertura: " + apertura.toString();
+        mensaje += "\nPromedio: " + promedio.toString();
+        mensaje += "\nActual: " + actual.toString();
+        mensaje += "\nCambio: " + cambio.toString();
+        LOG.info(mensaje);
+        assertTrue(al.calculaAccion(apertura, promedio, actual, cambio).equals("Esperar"));
+        
     }
     
-    /*
-    @Test
-    public void calculaConfianzaTest(){
-        Double cambio;
-        LOG.info("Ejecutando la prueba de calculaConfianza");
-        
-        cambio = 0.001;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.09, al.calculaConfianza(cambio), 0.01);
-        
-        cambio = -0.001;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.09, al.calculaConfianza(cambio), 0.01);
-        
-        cambio = 0.005;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.4, al.calculaConfianza(cambio), 0.01);
-        
-        cambio = -0.005;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.4, al.calculaConfianza(cambio), 0.01);
-        
-        cambio = 0.01;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.63, al.calculaConfianza(cambio), 0.01);
-        
-        cambio = -0.01;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.63, al.calculaConfianza(cambio), 0.01);
-        
-        
-        cambio = 0.05;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.99, al.calculaConfianza(cambio), 0.01);
-        
-        cambio = -0.05;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.99, al.calculaConfianza(cambio), 0.01);
-        
-        cambio = 0.0;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(0.0 , al.calculaConfianza(cambio), 0.0);
-        
-        cambio = 1.0;
-        LOG.info("Probando con cambio = " + cambio.toString());
-        assertEquals(1.0 , al.calculaConfianza(cambio), 0.00001);
-        
-    }
-    */
     
     @After
     public void after() {

@@ -7,15 +7,35 @@ import java.util.Properties;
 
 public class Alerta{
     private String simbolo, accion;
-    //private Double confianza;
+    private double sensitividad;
     
     /**
-    * Constructor basico para la alerta.
+    * Constructor vacio para la alerta.
+    */
+    public Alerta(){
+        this.simbolo = "BTCUSDT";
+        this.sensitividad = 0.01;
+    }
+    
+    /**
+    * Constructor con simbolo para la alerta.
     * 
     * @param simbolo - simbolo
     */
     public Alerta(String simbolo){
         this.simbolo = simbolo;
+        this.sensitividad = 0.01;
+    }
+    
+    /**
+    * Constructor con simbolo y sensitividad para la alerta.
+    * 
+    * @param simbolo - simbolo a monitorear
+    * @param sensitividad - sensitividad al cambio
+    */
+    public Alerta(String simbolo, double sensitividad){
+        this.simbolo = simbolo;
+        this.sensitividad = sensitividad;
     }
     
     /**
@@ -25,6 +45,33 @@ public class Alerta{
     */
     public void setSimbolo(String simbolo){
         this.simbolo = simbolo;
+    }
+    
+    /**
+    * Getter para el atributo simbolo.
+    *
+    * @return simbolo - Simbolo de la alerta
+    */
+    public String getSimbolo(){
+        return simbolo;
+    }
+    
+    /**
+    * Setter para el atributo sensitividad.
+    *
+    * @param sensitividad - Nueva sensitividad
+    */
+    public void setSensitividad(double sensitividad){
+        this.sensitividad = sensitividad;
+    }
+    
+    /**
+    * Getter para el atributo sensitividad.
+    *
+    * @return sentsitividad - Sensitividad de la alerta
+    */
+    public double getSensitividad(){
+        return sensitividad;
     }
     
     /**
@@ -42,20 +89,20 @@ public class Alerta{
     public String calculaAccion(Double apertura, Double promedio, Double actual, Double cambio){
         String accion = "Esperar";
         
-        //Consideraciones para determinar la accion
+        //Consideraciones para determinar la accion. Solo se toma accion si abs(cambio)>abs(sensitividad)
         if(promedio >= apertura){
             //Si el promedio esta por arriba del precio de apertura, vemos la posicion del precio
             if(actual > promedio){
                 //Si el precio es mayor al promedio, se compra si esta subiendo el precio y se vende si esta bajando
-                if(cambio > 0){
+                if(cambio > sensitividad){
                     accion = "Comprar";
                 }
-                else{
+                else if(cambio < -sensitividad){
                     accion = "Vender";
                 }
             }else{
                 //Si el precio es menor al promedio, se compra si esta subiendo el precio y se espera si esta bajando
-                if(cambio > 0){
+                if(cambio > sensitividad){
                     accion = "Comprar";
                 }
             }
@@ -63,14 +110,14 @@ public class Alerta{
             //Si el promedio esta por debajo del precio de apertura, vemos la posicion del precio
             if(actual >= promedio){
                 //Si el precio es mayor al promedio, se espera si esta subiendo el precio y se vende si esta bajando
-                if(cambio < 0){
+                if(cambio < -sensitividad){
                     accion = "Vender";
                 }
             }else{
                 //Si el precio es menor al promedio, se compra si esta subiendo el precio y se vende si esta bajando
-                if(cambio < 0){
+                if(cambio < -sensitividad){
                     accion = "Vender";
-                }else{
+                }else if(cambio > sensitividad){
                     accion = "Comprar";
                 }
             }
@@ -78,26 +125,6 @@ public class Alerta{
         
         return accion;
     }
-    
-    /**
-    * Confianza de la recomendacion dada, tomando en cuenta la magnitud 
-    * del cambio. Algunos valores notables:
-    *     abs(cambio) = 0.001 -> confianza ~9%
-    *     abs(cambio) = 0.005 -> confianza ~40%
-    *     abs(cambio) = 0.01  -> confianza ~63%
-    *     abs(cambio) = 0.05  -> confianza ~99%
-    *
-    * @param cambio - Cambio reciente del precio en porcentaje.
-    *
-    * @return accion - Accion recomendada.
-    */
-    /*
-    public Double calculaConfianza(Double cambio){
-        
-        Double confianza = 1 - 1.0/Math.exp(100*Math.abs(cambio));
-        
-        return confianza;
-    }*/
     
     /**
     * Genera una recomendacion, haciendo un request al API REST de binance para
@@ -139,13 +166,7 @@ public class Alerta{
         //Guardar la accion en el atributo accion
         this.accion = calculaAccion(apertura, promedio, actual, cambio);
         
-        
-        /*
-        //Guardar la confianza en el atributo confianza
-        this.confianza = calculaConfianza(cambio);
-        */
-        
-        
+        //Rergresa el objeto en formato JSON
         return gson.toJson(this);
     }
     

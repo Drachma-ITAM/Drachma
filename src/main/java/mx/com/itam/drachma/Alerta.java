@@ -14,7 +14,7 @@ public class Alerta{
     */
     public Alerta(){
         this.simbolo = "BTCUSDT";
-        this.sensitividad = 0.01;
+        this.sensitividad = 0.0005;
     }
     
     /**
@@ -24,7 +24,7 @@ public class Alerta{
     */
     public Alerta(String simbolo){
         this.simbolo = simbolo;
-        this.sensitividad = 0.01;
+        this.sensitividad = 0.0005;
     }
     
     /**
@@ -123,6 +123,8 @@ public class Alerta{
             }
         }
         
+        this.accion = accion;
+        
         return accion;
     }
     
@@ -164,7 +166,7 @@ public class Alerta{
         Double cambio = 1 - Double.parseDouble(data2[0].getProperty("price"))/actual;
         
         //Guardar la accion en el atributo accion
-        this.accion = calculaAccion(apertura, promedio, actual, cambio);
+        calculaAccion(apertura, promedio, actual, cambio);
         
         //Rergresa el objeto en formato JSON
         return gson.toJson(this);

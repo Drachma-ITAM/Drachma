@@ -394,3 +394,201 @@ Cambio: 1.0
 2018-05-23 11:52:29:106 INFO  AlertaTest:177 - Probando con cambio = -0.05
 2018-05-23 11:52:29:106 INFO  AlertaTest:181 - Probando con cambio = 0.0
 2018-05-23 11:52:29:106 INFO  AlertaTest:185 - Probando con cambio = 1.0
+2018-05-24 11:01:00:659 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-24 11:01:00:662 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-24 11:01:00:663 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-24 11:01:00:664 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-24 11:01:00:664 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-24 11:01:00:664 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-24 11:01:00:665 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-24 11:01:00:665 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-24 11:01:00:666 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-24 11:01:00:666 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-24 11:01:00:666 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-24 11:01:00:667 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-24 11:01:00:667 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-24 11:01:00:668 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-25 14:37:44:981 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-25 14:37:44:984 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-25 14:37:44:985 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-25 14:37:44:985 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-25 14:37:44:986 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-25 14:37:44:986 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-25 14:37:44:987 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-25 14:37:44:987 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-25 14:37:44:987 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-25 14:37:44:988 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-25 14:37:44:988 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-25 14:37:44:989 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-25 14:37:44:989 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-25 14:37:44:989 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-25 17:06:31:591 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-25 17:06:31:595 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-25 17:06:31:597 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-25 17:06:31:597 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-25 17:06:31:598 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-25 17:06:31:598 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-25 17:06:31:598 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-25 17:06:31:598 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-25 17:06:31:599 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-25 17:06:31:599 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-25 17:06:31:599 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-25 17:06:31:600 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-25 17:06:31:600 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-25 17:06:31:600 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001

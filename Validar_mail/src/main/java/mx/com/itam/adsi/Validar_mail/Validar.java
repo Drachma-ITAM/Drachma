@@ -2,15 +2,17 @@ package mx.com.itam.adsi.Validar_mail;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
+import org.apache.log4j.Logger;
 
 /**
- * @author Cecilia V
+ * @author Drachma
  * Clase que incluye el método para validar un email.
  *
  */
 public class Validar 
 {
+	// se inicializa el logger
+	private final static Logger LOG = Logger.getLogger(Validar.class.getName());
 	
 	/**
 	 * Método booleano para verificar si un mail es valido o no, utiliza un patrón y
@@ -28,9 +30,11 @@ public class Validar
 	        Matcher mather = pattern.matcher(email);
 	 
 	        if (mather.find() == true) {
-	            res=true; //el email es valido
+	            res = true;
+	        	LOG.info("eMail valido");//el email es valido
 	        } else {
-	           res=false; //email es invalido
+	           res = false;
+	        	LOG.info("eMail no valido"); //email es invalido
 	        }
 	        return res;
 	}

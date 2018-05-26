@@ -71,7 +71,7 @@ public class NewDataEndPoint {
                 
                 session.getUserProperties().put("lastPrice", price);
                 try {
-                    String response = "{ price : " + price + ", recomendacion: "+gson.toJson(a)+"}";
+                    String response = "{ type : update, price : " + price + ", recomendacion: "+gson.toJson(a)+"}";
                     session.getBasicRemote().sendText(response);
                 } catch (IOException ex) {
                     Logger.getLogger(NewDataEndPoint.class.getName()).log(Level.SEVERE, null, ex);
@@ -88,7 +88,8 @@ public class NewDataEndPoint {
                 }
                 
                 try {
-                    session.getBasicRemote().sendText(gson.toJson(a));
+                    String resp = "{ type : change, newAlert: "+gson.toJson(a)+"}";
+                    session.getBasicRemote().sendText(resp);
                 } catch (IOException ex) {
                     Logger.getLogger(NewDataEndPoint.class.getName()).log(Level.SEVERE, null, ex);
                 }

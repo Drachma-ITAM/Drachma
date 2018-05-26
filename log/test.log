@@ -27,3 +27,37 @@
 2018-05-26 10:24:58:087 INFO  Boxplot:65 - Conexión exitosa
 2018-05-26 10:30:42:250 INFO  Boxplot:65 - Conexión exitosa
 2018-05-26 10:32:19:631 INFO  Boxplot:66 - Conexión exitosa
+2018-05-26 10:46:43:409 INFO  Boxplot:65 - Conexión exitosa
+2018-05-26 14:30:20:780 INFO  Klineplot:65 - Conexión exitosa
+2018-05-26 14:30:20:792 INFO  Klineplot:94 - Se obtuvo información para 1 criptomonedas
+2018-05-26 14:31:57:064 INFO  Klineplot:65 - Conexión exitosa
+2018-05-26 14:31:57:077 INFO  Klineplot:94 - Se obtuvo información para 1 criptomonedas
+2018-05-26 14:33:22:543 INFO  Klineplot:65 - Conexión exitosa
+2018-05-26 14:33:22:558 INFO  Klineplot:94 - Se obtuvo información para 1 criptomonedas
+2018-05-26 14:34:00:633 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 14:34:00:638 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 14:34:45:344 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 14:34:45:347 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 14:39:14:540 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 14:39:14:545 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 14:39:14:546 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 14:44:41:183 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 14:44:41:189 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 14:44:41:190 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 14:44:41:190 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 14:57:10:986 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 14:57:10:992 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 14:57:10:993 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 14:57:10:994 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 14:57:10:994 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 14:57:32:374 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 14:57:32:381 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 14:57:32:381 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 14:57:32:381 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 14:57:32:382 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 15:00:25:376 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 15:00:25:384 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 15:00:25:384 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 15:00:25:385 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 15:00:25:385 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 15:00:25:386 INFO  CandlestickTest:68 - 14/11/2008

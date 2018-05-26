@@ -18,7 +18,7 @@ import org.apache.log4j.Logger;
  *
  * @author Drachma
  */
-public class Boxplot {
+public class Klineplot {
     private String url;
     private final Logger LOG;
     private Map<String,String[]> inputMap;
@@ -27,10 +27,10 @@ public class Boxplot {
     /**
      * Constructor vacío de la clase Boxplot
      */
-    public Boxplot(){ // throws IOException{
+    public Klineplot(){ // throws IOException{
         
         // se inicializa el logger
-        LOG = Logger.getLogger(Boxplot.class.getName());
+        LOG = Logger.getLogger(Klineplot.class.getName());
         
         this.url="https://api.binance.com";
         
@@ -90,6 +90,8 @@ public class Boxplot {
             } catch (IOException e){
                 LOG.error("No se pudo establecer la conexión"+e);  // manda error si no puede establecer la conexión
             }  
+            
+            LOG.info("Se obtuvo información para "+inputMap.size()+" criptomonedas");
         }
         
     }
@@ -126,7 +128,7 @@ public class Boxplot {
                 else
                     cs.setUp(false);
                 
-                cs.setOpenTime(s[0]); // guarda la fecha
+                cs.setFecha(s[0]); // guarda la fecha
                 
                 // guarda el objeto en el arreglo
                 datos_aux[i] = cs;

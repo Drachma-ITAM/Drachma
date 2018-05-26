@@ -5,11 +5,6 @@
  */
 package mx.com.itam.drachma;
 
-import java.text.DateFormat;
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import org.apache.commons.lang.ArrayUtils;
-
 /**
  *
  * @author andreamarin
@@ -21,12 +16,11 @@ public class Main {
      */
     public static void main(String[] args) { 
         String[] simbolo  = {"BTCUSDT"};
-        Boxplot bp = new Boxplot();
+        Klineplot bp = new Klineplot();
         
         
         bp.getData(simbolo,2);
         String s2 = bp.formatData();
-        System.out.println(s2);
         
     }
     

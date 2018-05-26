@@ -58,6 +58,11 @@ public class Candlestick {
     public boolean getUp() {
         return up;
     }
+    
+    public String getFecha(){
+        return fecha;
+    }
+    
     /**
      * Guarda el valor de "up".
      * true: si el precio de apertura es menor que el de cierre
@@ -72,7 +77,7 @@ public class Candlestick {
      * Convierte la fecha de milisegundos a dd/MM/yy
      * @param millisecondsTime - fecha en milisegundos
      */
-    public void setOpenTime(String millisecondsTime){
+    public void setFecha(String millisecondsTime){
         //convierte el timestamp a formato long
         long timeStamp = Long.parseLong(millisecondsTime);
         

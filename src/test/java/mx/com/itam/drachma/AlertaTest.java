@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 
 public class AlertaTest {
     private final static Logger LOG = Logger.getLogger(AlertaTest.class);
-    private final Alerta al = new Alerta();
+    private final Alerta al = new Alerta("BTCUSDT", 0,01);
     
     @BeforeClass
     public static void beforeClass() {

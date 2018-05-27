@@ -15,12 +15,13 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) { 
-        String[] simbolo  = {"BTCUSDT"};
+        String[] simbolo  = {"BTCUSDT","EOSETH"};
         Klineplot bp = new Klineplot();
         
         
         bp.getData(simbolo,2);
         String s2 = bp.formatData();
+        System.out.println(s2);
         
     }
     

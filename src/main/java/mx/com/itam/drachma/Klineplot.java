@@ -91,9 +91,9 @@ public class Klineplot {
                 LOG.error("No se pudo establecer la conexión"+e);  // manda error si no puede establecer la conexión
             }  
             
-            LOG.info("Se obtuvo información para "+inputMap.size()+" criptomonedas");
         }
         
+        LOG.info("Se obtuvo información para "+inputMap.size()+" criptomonedas");
     }
     
     /**

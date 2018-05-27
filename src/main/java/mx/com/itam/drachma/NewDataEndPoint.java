@@ -28,6 +28,7 @@ public class NewDataEndPoint {
         //System.out.println("Alguien se conecto: " + session.getId());
         //Se agregan algunos valores a la session
         session.getUserProperties().put("alerta", new Alerta());
+        session.getUserProperties().put("plot", new Klineplot());
         
         //Request para informacion sobre las ultimas 24 horas
         String request = "https://api.binance.com/api/v1/ticker/24hr?symbol=BTCUSDT";
@@ -56,6 +57,7 @@ public class NewDataEndPoint {
         //System.out.println("Recibi mensaje:\n" + msg);
         Properties info = gson.fromJson(msg, Properties.class);
         Alerta a = (Alerta) session.getUserProperties().get("alerta");
+        Klineplot k = (Klineplot) session.getUserProperties().get("plot");
         
         switch( info.getProperty("type") ){
             case "update":
@@ -93,6 +95,25 @@ public class NewDataEndPoint {
                 } catch (IOException ex) {
                     Logger.getLogger(NewDataEndPoint.class.getName()).log(Level.SEVERE, null, ex);
                 }
+                
+                break;
+                
+            case "plot":
+                try{
+                    String s = session.getUserProperties().get("simbolos").toString();
+                    String[] simbolos = s.split(",");
+                    
+                    int lim = (int) session.getUserProperties().get("limite");
+                    
+                    k.getData(simbolos, lim);
+                    String datos = k.formatData();
+                    
+                    session.getBasicRemote().sendText(datos);
+                    
+                }catch(Exception e){
+                    Logger.getLogger(NewDataEndPoint.class.getName()).log(Level.SEVERE, null, e);
+                }
+                
                 
                 break;
         }

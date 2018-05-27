@@ -382,3 +382,207 @@
 2018-05-27 00:19:46:385 INFO  SendMail:83 - Tipo de correo: aumenta precio
 2018-05-27 00:19:46:386 INFO  SendMail:54 - Enviando correo a destinatario
 2018-05-27 00:19:47:241 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 01:23:25:500 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-27 01:23:25:515 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-27 01:23:25:533 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-27 01:23:25:535 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-27 01:23:25:542 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-27 01:23:25:543 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-27 01:23:25:550 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-27 01:23:25:550 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-27 01:23:25:552 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-27 01:23:25:553 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-27 01:23:25:555 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-27 01:23:25:556 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 01:23:25:561 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 01:23:25:568 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-27 01:23:25:611 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-27 01:23:25:612 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-27 01:23:25:629 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 01:23:25:640 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 01:23:25:645 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:23:29:999 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 01:23:30:132 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-27 01:23:30:133 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-27 01:23:30:136 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 01:23:30:137 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 01:23:30:137 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:23:30:905 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 01:23:30:908 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-27 01:23:30:908 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-27 01:23:30:909 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 01:23:30:909 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 01:23:30:909 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:23:31:739 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 01:23:31:744 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-27 01:23:31:745 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-27 01:23:31:747 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 01:23:31:748 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 01:23:31:752 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:23:32:691 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 01:23:32:721 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-27 01:23:32:724 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-27 01:23:32:725 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-27 01:23:32:726 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-27 01:23:32:729 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-27 01:23:32:733 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-27 01:23:32:736 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-27 01:23:32:745 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-27 01:23:32:746 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-27 01:23:32:747 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-27 01:23:32:747 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-27 01:23:32:749 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-27 01:24:28:188 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-27 01:24:28:198 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-27 01:24:28:208 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-27 01:24:28:209 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-27 01:24:28:210 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-27 01:24:28:215 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-27 01:24:28:217 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-27 01:24:28:217 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-27 01:24:28:222 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-27 01:24:28:223 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-27 01:24:28:225 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-27 01:24:28:226 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 01:24:28:227 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 01:24:28:232 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-27 01:24:28:268 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-27 01:24:28:269 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-27 01:24:28:293 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 01:24:28:303 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 01:24:28:308 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:24:34:085 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 01:24:34:093 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-27 01:24:34:094 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-27 01:24:34:094 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 01:24:34:096 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 01:24:34:096 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:24:35:906 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 01:24:35:918 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-27 01:24:35:934 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-27 01:24:35:938 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 01:24:35:948 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 01:24:35:949 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:24:37:010 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 01:24:37:041 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-27 01:24:37:042 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-27 01:24:37:044 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 01:24:37:045 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 01:24:37:047 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 01:24:38:111 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 01:24:38:132 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-27 01:24:38:136 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-27 01:24:38:142 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-27 01:24:38:143 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-27 01:24:38:144 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-27 01:24:38:149 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-27 01:24:38:152 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-27 01:24:38:158 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-27 01:24:38:158 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-27 01:24:38:164 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-27 01:24:38:165 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-27 01:24:38:165 INFO  CandlestickTest:104 - 31/12/1996

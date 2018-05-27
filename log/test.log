@@ -1457,3 +1457,87 @@ Cambio: 0.001
 2018-05-27 02:38:07:821 INFO  ValidacionMail:46 - eMail no valido
 2018-05-27 02:38:13:887 INFO  ValidacionMail:46 - eMail no valido
 2018-05-27 02:38:26:452 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 08:22:28:301 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-27 08:22:28:305 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-27 08:22:28:308 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-27 08:22:28:308 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-27 08:22:28:310 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-27 08:22:28:310 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-27 08:22:28:311 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-27 08:22:28:312 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-27 08:22:28:312 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-27 08:22:28:313 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-27 08:22:28:314 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-27 08:22:28:314 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-27 08:22:28:317 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-27 08:22:28:318 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-27 08:22:28:320 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-27 08:22:28:320 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-27 08:22:28:324 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-27 08:22:28:325 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-27 08:22:28:325 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-27 08:22:28:325 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-27 08:22:28:326 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-27 08:22:28:326 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-27 08:22:28:327 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-27 08:22:28:328 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 08:22:28:328 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 08:22:28:329 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-27 08:22:28:332 INFO  ValidacionMailTest:33 - Ejecutando la prueba
+2018-05-27 08:22:28:333 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 08:22:28:333 INFO  ValidacionMail:46 - eMail no valido
+2018-05-27 08:24:16:692 INFO  Klineplot:65 - Conexión exitosa
+2018-05-27 08:24:16:973 INFO  Klineplot:65 - Conexión exitosa
+2018-05-27 08:24:16:974 INFO  Klineplot:96 - Se obtuvo información para 2 criptomonedas

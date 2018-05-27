@@ -667,3 +667,549 @@ Cambio: 0.001
 2018-05-26 20:21:27:881 INFO  Klineplot:65 - Conexión exitosa
 2018-05-26 20:21:28:113 INFO  Klineplot:65 - Conexión exitosa
 2018-05-26 20:21:28:115 INFO  Klineplot:96 - Se obtuvo información para 2 criptomonedas
+2018-05-26 22:19:14:026 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-26 22:19:14:044 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-26 22:19:14:048 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-26 22:19:14:049 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-26 22:19:14:050 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-26 22:19:14:051 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-26 22:19:14:052 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-26 22:19:14:053 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-26 22:19:14:054 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-26 22:19:14:063 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-26 22:19:14:065 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-26 22:19:14:066 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:19:14:067 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:19:14:068 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-26 22:19:14:099 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 22:19:14:104 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 22:19:14:114 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 22:19:14:115 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 22:19:14:116 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 22:19:14:136 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-26 22:19:14:138 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-26 22:19:14:139 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-26 22:19:14:149 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-26 22:19:14:150 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-26 22:19:14:153 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-26 22:19:14:154 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-26 22:21:51:918 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-26 22:21:51:931 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-26 22:21:51:934 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-26 22:21:51:936 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-26 22:21:51:937 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-26 22:21:51:938 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-26 22:21:51:939 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-26 22:21:51:940 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-26 22:21:51:942 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-26 22:21:51:943 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-26 22:21:51:944 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-26 22:21:51:945 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:21:51:946 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:21:51:947 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-26 22:21:51:970 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 22:21:51:972 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 22:21:51:983 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 22:21:51:984 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 22:21:51:985 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 22:21:51:986 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-26 22:21:51:987 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-26 22:21:51:987 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-26 22:21:51:988 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-26 22:21:51:989 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-26 22:21:51:990 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-26 22:21:51:990 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-26 22:24:08:997 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-26 22:24:09:006 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-26 22:24:09:010 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-26 22:24:09:011 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-26 22:24:09:012 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-26 22:24:09:013 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-26 22:24:09:015 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-26 22:24:09:015 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-26 22:24:09:017 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-26 22:24:09:019 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-26 22:24:09:020 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-26 22:24:09:021 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:24:09:022 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:24:09:023 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-26 22:24:09:044 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 22:24:09:051 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 22:24:09:060 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 22:24:09:060 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 22:24:09:061 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 22:24:09:062 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-26 22:24:09:063 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-26 22:24:09:064 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-26 22:24:09:066 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-26 22:24:09:067 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-26 22:24:09:068 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-26 22:24:09:069 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-26 22:29:45:554 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-26 22:29:45:563 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-26 22:29:45:567 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-26 22:29:45:568 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-26 22:29:45:569 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-26 22:29:45:570 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-26 22:29:45:571 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-26 22:29:45:572 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-26 22:29:45:573 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-26 22:29:45:574 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-26 22:29:45:574 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-26 22:29:45:576 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:29:45:577 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:29:45:578 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-26 22:29:45:617 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 22:29:45:618 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 22:29:45:625 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 22:29:45:627 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 22:29:45:631 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 22:29:45:632 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-26 22:29:45:634 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-26 22:29:45:635 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-26 22:29:45:640 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-26 22:29:45:641 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-26 22:29:45:642 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-26 22:29:45:644 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-26 22:30:45:597 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-26 22:30:45:604 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-26 22:30:45:607 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-26 22:30:45:608 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-26 22:30:45:609 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-26 22:30:45:610 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-26 22:30:45:611 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-26 22:30:45:611 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-26 22:30:45:612 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-26 22:30:45:612 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-26 22:30:45:613 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-26 22:30:45:614 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:30:45:615 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:30:45:615 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-26 22:30:45:623 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 22:30:45:624 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 22:30:45:627 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 22:30:45:628 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 22:30:45:630 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 22:30:45:632 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-26 22:30:45:639 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-26 22:30:45:640 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-26 22:30:45:641 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-26 22:30:45:641 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-26 22:30:45:642 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-26 22:30:45:643 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-26 22:31:30:501 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-26 22:31:30:510 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-26 22:31:30:515 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-26 22:31:30:516 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-26 22:31:30:517 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-26 22:31:30:518 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-26 22:31:30:519 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-26 22:31:30:520 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-26 22:31:30:522 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-26 22:31:30:522 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-26 22:31:30:524 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-26 22:31:30:525 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:31:30:526 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:31:30:530 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-26 22:31:30:546 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 22:31:30:553 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 22:31:30:557 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 22:31:30:566 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 22:31:30:567 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 22:31:30:568 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-26 22:31:30:569 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-26 22:31:30:570 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-26 22:31:30:571 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-26 22:31:30:572 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-26 22:31:30:573 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-26 22:31:30:574 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-26 22:32:27:607 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-26 22:32:27:613 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-26 22:32:27:617 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-26 22:32:27:618 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-26 22:32:27:618 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-26 22:32:27:619 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-26 22:32:27:620 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-26 22:32:27:620 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-26 22:32:27:621 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-26 22:32:27:622 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-26 22:32:27:622 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-26 22:32:27:623 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:32:27:624 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-26 22:32:27:624 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-26 22:32:27:630 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-26 22:32:27:631 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-26 22:32:27:637 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-26 22:32:27:638 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-26 22:32:27:639 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-26 22:32:27:640 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-26 22:32:27:640 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-26 22:32:27:641 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-26 22:32:27:642 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-26 22:32:27:643 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-26 22:32:27:643 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-26 22:32:27:644 INFO  CandlestickTest:104 - 31/12/1996

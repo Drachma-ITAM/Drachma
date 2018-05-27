@@ -9,6 +9,7 @@ import org.eclipse.jetty.websocket.jsr356.server.deploy.WebSocketServerContainer
 public class WSDeploy {
     public static void main(String[] args) {
         try{
+        BackendDrachma bdr = new BackendDrachma(8000);
         Server server = new Server(4040);
 
         ServletContextHandler context = new ServletContextHandler(ServletContextHandler.SESSIONS);
@@ -21,6 +22,7 @@ public class WSDeploy {
 
         server.start();
         server.join();
+
         }catch(Exception e){
             System.out.println("lol");
         }

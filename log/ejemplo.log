@@ -54,3 +54,331 @@
 2018-05-26 22:03:43:572 INFO  SendMail:83 - Tipo de correo: aumenta precio
 2018-05-26 22:03:43:572 INFO  SendMail:54 - Enviando correo a destinatario
 2018-05-26 22:03:44:749 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:06:36:772 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:06:36:899 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:06:36:908 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:06:36:909 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:06:36:911 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:06:42:527 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:06:42:537 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:06:42:539 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:06:42:541 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:06:42:547 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:06:42:548 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:06:44:499 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:06:44:523 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:06:44:533 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:06:44:540 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:06:44:546 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:06:44:556 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:06:46:128 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:06:46:145 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:06:46:151 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:06:46:152 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:06:46:166 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:06:46:168 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:06:47:728 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:23:51:699 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:23:51:728 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:23:51:729 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:23:51:739 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:23:51:741 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:23:57:909 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:23:57:941 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:23:57:948 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:23:57:955 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:23:57:956 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:23:57:957 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:23:59:240 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:23:59:244 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:23:59:244 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:23:59:245 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:23:59:253 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:23:59:261 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:24:00:349 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:24:00:359 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:24:00:365 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:24:00:366 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:24:00:367 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:24:00:367 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:24:01:418 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:24:01:444 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:24:01:454 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:24:01:459 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:24:01:459 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:24:01:460 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:24:03:177 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:24:03:182 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:24:03:183 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:24:03:185 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:24:03:186 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:24:03:186 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:24:04:490 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:24:04:495 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:24:04:496 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:24:04:497 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:24:04:503 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:24:04:511 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:24:05:780 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:24:05:790 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:24:05:791 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:24:05:791 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:24:05:791 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:24:05:796 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:24:06:873 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:24:27:676 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:24:27:681 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:24:27:682 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:24:32:175 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:32:04:295 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:32:04:427 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:32:04:428 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:32:04:429 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:32:04:430 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:08:750 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:32:08:775 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:32:08:777 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:32:08:778 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:32:08:780 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:32:08:781 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:10:265 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:32:10:267 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:32:10:268 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:32:10:269 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:32:10:270 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:32:10:281 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:11:189 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:32:11:199 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:32:11:199 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:32:11:203 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:32:11:205 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:32:11:207 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:12:304 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:32:12:323 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:32:12:324 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:32:12:326 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:32:12:332 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:32:12:347 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:14:025 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:32:14:054 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:32:14:058 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:32:14:070 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:32:14:082 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:32:14:083 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:15:857 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:32:15:874 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:32:15:876 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:32:15:884 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:32:15:890 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:32:15:902 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:17:400 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:32:17:435 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:32:17:443 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:32:17:444 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:32:17:445 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:32:17:455 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:19:092 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:32:19:114 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:32:19:119 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:32:19:125 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:32:19:127 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:32:19:129 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:20:306 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:32:20:309 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:32:20:309 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:32:20:310 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:32:20:310 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:32:20:312 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:21:583 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:32:21:593 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:32:21:610 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:32:21:618 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:32:21:637 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:32:21:643 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:22:907 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:32:22:916 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:32:22:920 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:32:22:927 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:32:22:935 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:32:22:963 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:32:23:964 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:33:06:222 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:33:06:227 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:33:06:227 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:10:955 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:33:36:655 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:33:36:676 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:33:36:677 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:33:36:679 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:33:36:679 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:40:963 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:33:40:992 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:33:40:996 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:33:40:999 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:33:41:004 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:33:41:004 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:42:458 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:33:42:468 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:33:42:469 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:33:42:469 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:33:42:470 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:33:42:473 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:43:766 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:33:43:777 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:33:43:796 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:33:43:815 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:33:43:817 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:33:43:822 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:44:770 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:33:44:780 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:33:44:781 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:33:44:784 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:33:44:784 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:33:44:906 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:45:995 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:33:46:009 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:33:46:015 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:33:46:022 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:33:46:025 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:33:46:031 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:47:292 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:33:47:296 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:33:47:304 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:33:47:305 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:33:47:308 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:33:47:314 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:48:081 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:33:48:091 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:33:48:092 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:33:48:092 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:33:48:093 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:33:48:095 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:49:173 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:33:49:236 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:33:49:237 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:33:49:238 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:33:49:254 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:33:49:258 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:50:552 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:33:50:555 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:33:50:556 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:33:50:558 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:33:50:558 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:33:50:559 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:51:552 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:33:51:600 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:33:51:603 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:33:51:607 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:33:51:619 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:33:51:629 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:52:568 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:33:52:585 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:33:52:621 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:33:52:627 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:33:52:627 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:33:52:628 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:33:53:624 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:36:36:642 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:36:36:658 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:36:36:659 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:36:36:660 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:36:36:663 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:36:41:679 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:36:41:707 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:36:41:708 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:36:41:709 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:36:41:714 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:36:41:716 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:36:42:992 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:36:42:998 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:36:42:999 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:36:43:001 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:36:43:011 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:36:43:025 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:36:44:019 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:36:44:026 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:36:44:027 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:36:44:034 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:36:44:038 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:36:44:039 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:36:44:669 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:37:05:280 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:37:05:284 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:37:05:285 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:37:08:556 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:37:29:558 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-26 23:37:29:571 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-26 23:37:29:572 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:37:29:573 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:37:29:574 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:37:32:993 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:37:33:019 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-26 23:37:33:022 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-26 23:37:33:022 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-26 23:37:33:024 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:37:33:029 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:37:33:779 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-26 23:37:33:783 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-26 23:37:33:784 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-26 23:37:33:785 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:37:33:786 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-26 23:37:33:794 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:37:34:540 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-26 23:37:34:551 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-26 23:37:34:552 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-26 23:37:34:554 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-26 23:37:34:554 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-26 23:37:34:573 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-26 23:37:35:327 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 00:18:47:737 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-27 00:18:47:858 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-27 00:18:47:859 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 00:18:47:861 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 00:18:47:861 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:18:53:566 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 00:18:53:598 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-27 00:18:53:601 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-27 00:18:53:601 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 00:18:53:607 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 00:18:53:617 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:18:55:378 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 00:18:55:379 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-27 00:18:55:379 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-27 00:18:55:379 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 00:18:55:380 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 00:18:55:388 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:18:56:614 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 00:18:56:664 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-27 00:18:56:666 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-27 00:18:56:667 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 00:18:56:669 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 00:18:56:673 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:18:57:496 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 00:19:13:955 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 00:19:13:960 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 00:19:13:960 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:19:18:601 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 00:19:39:829 INFO  TestSendMail:28 - Ejecutando la prueba 1
+2018-05-27 00:19:39:846 INFO  TestSendMail:29 - Correo bueno, sube precio
+2018-05-27 00:19:39:847 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 00:19:39:849 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 00:19:39:849 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:19:44:262 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 00:19:44:285 INFO  TestSendMail:36 - Ejecutando la prueba 2
+2018-05-27 00:19:44:294 INFO  TestSendMail:37 - Correo bueno, baja precio
+2018-05-27 00:19:44:301 INFO  SendMail:76 - Destinatario: adsi.itam.03@gmail.com
+2018-05-27 00:19:44:310 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 00:19:44:313 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:19:45:486 INFO  SendMail:88 - Correo enviado correctamente!
+2018-05-27 00:19:45:489 INFO  TestSendMail:44 - Ejecutando la prueba 3
+2018-05-27 00:19:45:490 INFO  TestSendMail:45 - Correo malo, sube precio
+2018-05-27 00:19:45:490 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 00:19:45:491 INFO  SendMail:80 - Tipo de correo: disminuye precio
+2018-05-27 00:19:45:494 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:19:46:358 INFO  SendMail:91 - No se ha logrado enviar el correo
+2018-05-27 00:19:46:373 INFO  TestSendMail:52 - Ejecutando la prueba 4
+2018-05-27 00:19:46:376 INFO  TestSendMail:53 - Correo malo, sube precio
+2018-05-27 00:19:46:384 INFO  SendMail:76 - Destinatario: adsi.itam.03@
+2018-05-27 00:19:46:385 INFO  SendMail:83 - Tipo de correo: aumenta precio
+2018-05-27 00:19:46:386 INFO  SendMail:54 - Enviando correo a destinatario
+2018-05-27 00:19:47:241 INFO  SendMail:91 - No se ha logrado enviar el correo

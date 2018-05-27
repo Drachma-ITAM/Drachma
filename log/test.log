@@ -1457,3 +1457,167 @@ Cambio: 0.001
 2018-05-27 02:38:07:821 INFO  ValidacionMail:46 - eMail no valido
 2018-05-27 02:38:13:887 INFO  ValidacionMail:46 - eMail no valido
 2018-05-27 02:38:26:452 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 04:28:58:413 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-27 04:28:58:422 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-27 04:28:58:426 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-27 04:28:58:427 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-27 04:28:58:428 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-27 04:28:58:428 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-27 04:28:58:429 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-27 04:28:58:430 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-27 04:28:58:430 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-27 04:28:58:431 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-27 04:28:58:432 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-27 04:28:58:433 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 04:28:58:434 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 04:28:58:435 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-27 04:28:58:441 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-27 04:28:58:482 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-27 04:28:58:490 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-27 04:28:58:492 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-27 04:28:58:494 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-27 04:28:58:498 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-27 04:28:58:499 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-27 04:28:58:501 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-27 04:28:58:503 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-27 04:28:58:503 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-27 04:28:58:504 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-27 04:28:58:506 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-27 04:28:58:536 INFO  ValidacionMailTest:33 - Ejecutando la prueba
+2018-05-27 04:28:58:538 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 04:28:58:539 INFO  ValidacionMail:46 - eMail no valido
+2018-05-27 04:29:31:133 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-27 04:29:31:141 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-27 04:29:31:145 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-27 04:29:31:146 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-27 04:29:31:147 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-27 04:29:31:149 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-27 04:29:31:150 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-27 04:29:31:151 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-27 04:29:31:152 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-27 04:29:31:154 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-27 04:29:31:155 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-27 04:29:31:156 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 04:29:31:156 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 04:29:31:157 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-27 04:29:31:209 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-27 04:29:31:215 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-27 04:29:31:219 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-27 04:29:31:221 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-27 04:29:31:222 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-27 04:29:31:223 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-27 04:29:31:224 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-27 04:29:31:225 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-27 04:29:31:226 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-27 04:29:31:227 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-27 04:29:31:228 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-27 04:29:31:229 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-27 04:29:31:258 INFO  ValidacionMailTest:33 - Ejecutando la prueba
+2018-05-27 04:29:31:260 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 04:29:31:261 INFO  ValidacionMail:46 - eMail no valido
+2018-05-27 04:30:01:854 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 04:30:05:800 INFO  ValidacionMail:46 - eMail no valido

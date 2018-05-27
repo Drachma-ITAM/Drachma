@@ -1704,3 +1704,84 @@ Cambio: 0.001
 2018-05-27 04:32:22:735 INFO  ValidacionMail:46 - eMail no valido
 2018-05-27 04:32:42:430 INFO  ValidacionMail:46 - eMail no valido
 2018-05-27 04:32:47:466 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 04:43:10:528 INFO  AlertaTest:29 - Ejecutando la prueba de calculaAccion
+2018-05-27 04:43:10:537 INFO  AlertaTest:39 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 0.0
+2018-05-27 04:43:10:541 INFO  AlertaTest:50 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: 0.1
+2018-05-27 04:43:10:542 INFO  AlertaTest:61 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 3.0
+Cambio: -0.1
+2018-05-27 04:43:10:543 INFO  AlertaTest:72 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.1
+2018-05-27 04:43:10:544 INFO  AlertaTest:83 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: -0.1
+2018-05-27 04:43:10:546 INFO  AlertaTest:94 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: 0.1
+2018-05-27 04:43:10:547 INFO  AlertaTest:105 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -1.0
+Cambio: -0.1
+2018-05-27 04:43:10:548 INFO  AlertaTest:116 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: -0.1
+2018-05-27 04:43:10:549 INFO  AlertaTest:127 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.1
+2018-05-27 04:43:10:550 INFO  AlertaTest:138 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 0.0
+Actual: 0.0
+Cambio: 1.0
+2018-05-27 04:43:10:551 INFO  AlertaTest:149 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: -5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 04:43:10:552 INFO  AlertaTest:160 - Probando con los siguientes datos: 
+Apertura: 10.0
+Promedio: 5.0
+Actual: -8.0
+Cambio: 0.001
+2018-05-27 04:43:10:552 INFO  AlertaTest:171 - Probando con los siguientes datos: 
+Apertura: 0.0
+Promedio: 5.0
+Actual: 8.0
+Cambio: 0.001
+2018-05-27 04:43:10:599 INFO  CandlestickTest:39 - Ejecutando prueba de setFecha
+2018-05-27 04:43:10:602 INFO  CandlestickTest:44 - 30/04/2018
+2018-05-27 04:43:10:606 INFO  CandlestickTest:50 - 31/03/2018
+2018-05-27 04:43:10:607 INFO  CandlestickTest:56 - 26/05/2018
+2018-05-27 04:43:10:609 INFO  CandlestickTest:62 - 10/06/1989
+2018-05-27 04:43:10:619 INFO  CandlestickTest:68 - 14/11/2008
+2018-05-27 04:43:10:624 INFO  CandlestickTest:74 - 20/11/1998
+2018-05-27 04:43:10:631 INFO  CandlestickTest:80 - 25/10/2000
+2018-05-27 04:43:10:636 INFO  CandlestickTest:86 - 10/02/2017
+2018-05-27 04:43:10:643 INFO  CandlestickTest:92 - 10/02/2017
+2018-05-27 04:43:10:645 INFO  CandlestickTest:98 - 10/02/2017
+2018-05-27 04:43:10:646 INFO  CandlestickTest:104 - 31/12/1996
+2018-05-27 04:43:10:661 INFO  ValidacionMailTest:33 - Ejecutando la prueba
+2018-05-27 04:43:10:663 INFO  ValidacionMail:43 - eMail valido
+2018-05-27 04:43:10:664 INFO  ValidacionMail:46 - eMail no valido

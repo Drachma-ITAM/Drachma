@@ -38,27 +38,51 @@ public class Candlestick {
         this.low = low;
         this.close = close;
     }
-
+    
+    /**
+     * 
+     * @return precio de apertura
+     */
     public double getOpen() {
         return open;
     }
-
+     
+    /**
+     * 
+     * @return precio más alto
+     */
     public double getHigh() {
         return high;
     }
-
+    
+    /**
+     * 
+     * @return precio más bajo
+     */
     public double getLow() {
         return low;
     }
-
+    
+    /**
+     * 
+     * @return precio al cierre
+     */
     public double getClose() {
         return close;
     }
-
+    
+    /**
+     * 
+     * @return true: si el precio incrementó durante el día; false: el precio de la criptomoneda bajó
+     */
     public boolean getUp() {
         return up;
     }
     
+    /**
+     * 
+     * @return fecha de los datos
+     */
     public String getFecha(){
         return fecha;
     }

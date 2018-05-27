@@ -79,6 +79,31 @@ public class CandlestickTest {
         fecha = CS.getFecha();
         LOG.info(fecha);
         assertTrue(fecha.equals("25/10/2000"));
+        
+        timestamp = "1486771200000";
+        CS.setFecha(timestamp);
+        fecha = CS.getFecha();
+        LOG.info(fecha);
+        assertTrue(fecha.equals("10/02/2017"));
+        
+        timestamp = "1486771200000";
+        CS.setFecha(timestamp);
+        fecha = CS.getFecha();
+        LOG.info(fecha);
+        assertTrue(fecha.equals("10/02/2017"));
+        
+        timestamp = "1486771200000";
+        CS.setFecha(timestamp);
+        fecha = CS.getFecha();
+        LOG.info(fecha);
+        assertTrue(fecha.equals("10/02/2017"));
+        
+        timestamp = "852076800000";
+        CS.setFecha(timestamp);
+        fecha = CS.getFecha();
+        LOG.info(fecha);
+        assertTrue(fecha.equals("31/12/1996"));
+        
     }
     
     @After
